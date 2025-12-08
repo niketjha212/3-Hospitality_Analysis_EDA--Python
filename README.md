@@ -34,15 +34,6 @@ Overall, these objectives help build a complete analytical picture of AtliQ Gran
 
 ---
 
-## 📁 Project Scope:
-- Analyze hotel performance across cities & hotel tiers
-- Study occupancy trends for room categories
-- Evaluate revenue realization & demand patterns
-- Identify customer behavior and booking insights
-- Deliver clean visual summaries and business interpretations
-
----
-
 ## 🧭 Why This Project Matters
 
 In the hospitality industry, data-driven decision-making is essential for improving occupancy, maximizing revenue, and enhancing guest experience. This project demonstrates how analytics can transform raw hotel data into actionable insights that support strategic and operational excellence.
