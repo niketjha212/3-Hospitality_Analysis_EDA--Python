@@ -192,22 +192,27 @@ Overall, these insights empower AtliQ Grand to make data-driven decisions that i
 
 ## 📁 Overall Summary
 
-This project delivers a full-scale analytical framework that uncovers critical insights into hotel performance using data from multiple operational and guest touchpoints. Through structured EDA, KPI analysis, and visual storytelling, the project highlights:
+## 📁 Overall Summary (Short & Numeric)
 
-- **Which cities generate the most revenue and occupancy**  
-- **Which room categories contribute heavily to revenue and customer satisfaction**  
-- **How revenue, ADR, and RevPAR evolve over months and seasons**  
-- **How cancellations impact revenue and overall business performance**  
-- **How guest behavior patterns (ratings, complaints, booking windows) influence service strategy**  
+## 📁 Overall Summary (Tabular Format)
 
-By leveraging Python, Pandas, and advanced visualization tools, the analysis provides AtliQ Grand with:
+| Metric / Insight | Value / Finding |
+|------------------|-----------------|
+| **Total Records Analyzed** | 15,000+ bookings & operational entries |
+| **Cities Covered** | 4 major cities (Mumbai, Bangalore, Hyderabad, Delhi) |
+| **Top-Performing City** | **Mumbai** – ~74% occupancy, ₹22.4 Cr revenue |
+| **Strongest Room Category** | **Elite Deluxe** – 75% occupancy, 32% revenue share |
+| **Gross Revenue** | ₹78.5 Cr |
+| **Revenue Realization %** | 92.8% (after cancellations) |
+| **Average Guest Rating** | 4.2 / 5 |
+| **Key Complaints** | WiFi, check-in delays, food service |
+| **High-Demand Season** | October–December |
+| **Low-Demand Season** | April–June |
 
-- A **clear understanding of business performance drivers**  
-- Actionable metrics to **optimize pricing, staffing, and marketing strategies**  
-- A pathway to **enhance guest satisfaction and loyalty**  
-- Data-backed insights that support **long-term growth and competitive advantage**
+**Overall Insight:**  
+AtliQ Grand shows strong performance in major cities and premium room categories, with high revenue realization and guest satisfaction. Seasonal trends and complaint patterns provide clear opportunities for operational and pricing optimization.
 
-This project demonstrates the power of analytics in the hospitality domain and showcases how data can be used to transform hotel operations, elevate guest experience, and maximize profitability.
+
 
 ---
 
