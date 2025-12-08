@@ -1,5 +1,7 @@
 # 🏨 AtliQ Grand — Hospitality Analytics Project
+
 ---
+
 ## 🎯 What Is This Project About?
 
 This project is an end-to-end **Hospitality Analytics** study for AtliQ Grand, designed to uncover insights on hotel performance, guest behavior, and revenue optimization. Using real-world data from Codebasics, the project transforms raw operational, booking, and financial data into meaningful business intelligence.
