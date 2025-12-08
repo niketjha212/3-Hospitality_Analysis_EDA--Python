@@ -110,7 +110,7 @@ Below are example KPI metrics (customizable based on your dataset):
 | Highest Revenue City                  | Mumbai      | Drives the largest share of earnings                |
 
 
-## 📁  Summary Findings (Numerical Highlights)
+## 📁  Summary Findings 
 ⭐ 1. Hotel Performance
 | City          | Occupancy Rate | Total Revenue | Avg Rating |
 |---------------|----------------|---------------|------------|
