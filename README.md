@@ -192,10 +192,6 @@ Overall, these insights empower AtliQ Grand to make data-driven decisions that i
 
 ## 📁 Overall Summary
 
-## 📁 Overall Summary (Short & Numeric)
-
-## 📁 Overall Summary (Tabular Format)
-
 | Metric / Insight | Value / Finding |
 |------------------|-----------------|
 | **Total Records Analyzed** | 15,000+ bookings & operational entries |
@@ -211,8 +207,6 @@ Overall, these insights empower AtliQ Grand to make data-driven decisions that i
 
 **Overall Insight:**  
 AtliQ Grand shows strong performance in major cities and premium room categories, with high revenue realization and guest satisfaction. Seasonal trends and complaint patterns provide clear opportunities for operational and pricing optimization.
-
-
 
 ---
 
