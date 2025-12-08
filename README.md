@@ -1,20 +1,36 @@
 # 🏨 AtliQ Grand — Hospitality Analytics Project
+---
+## 🎯 What Is This Project About?
 
-A Data-Driven Exploration of Hotel Performance, Revenue, and Guest Behavior
+This project is an end-to-end **Hospitality Analytics** study for AtliQ Grand, designed to uncover insights on hotel performance, guest behavior, and revenue optimization. Using real-world data from Codebasics, the project transforms raw operational, booking, and financial data into meaningful business intelligence.
 
-This project delivers a deep analytical dive into the hospitality domain for AtliQ Grand, focusing on operational performance, occupancy trends, room category insights, and revenue analysis.
-The goal is to turn raw hotel data into actionable business intelligence that supports strategic decision-making and operational optimization.
+Through detailed analysis of occupancy rates, room category performance, revenue realization, guest satisfaction, and seasonal demand, the project aims to help hotel management:
 
+- Improve operational efficiency  
+- Optimize pricing and inventory  
+- Enhance guest experience  
+- Strengthen revenue and profitability  
+- Identify high-performing cities, hotels, and room categories  
 
-## 📁 Project Overview:
+Overall, this project demonstrates how data can be leveraged to make strategic decisions in the hospitality industry, enabling AtliQ Grand to improve business outcomes and stay competitive.
 
-This analysis covers:
--Hotel operations across multiple locations
-- Room category performance & occupancy behaviors
-- Revenue generation patterns and realization rates
-- Guest behavior, booking trends, and satisfaction metrics
+---
 
-📌 The insights acquired help AtliQ Grand make informed decisions that improve business efficiency, guest satisfaction, and profitability.
+## 📌 Project Objectives
+
+The primary objective of this project is to conduct an end-to-end analytical assessment of AtliQ Grand’s hotel operations, revenue performance, and guest behavior. The project aims to:
+
+1. **Analyze hotel performance across multiple cities** to identify high-performing and underperforming locations.  
+2. **Evaluate occupancy trends** across room categories and seasons to understand demand behavior.  
+3. **Assess key revenue metrics** such as ADR, RevPAR, and Revenue Realization % for financial performance benchmarking.  
+4. **Examine room category profitability** and determine which room types drive the highest business value.  
+5. **Analyze guest ratings, complaints, and booking patterns** to uncover drivers of customer satisfaction and service improvement areas.  
+6. **Identify monthly and seasonal revenue/occupancy trends** to support forecasting and resource planning.  
+7. **Generate visual dashboards and actionable insights** to support strategic decision-making at operational and managerial levels.
+
+Overall, these objectives help build a complete analytical picture of AtliQ Grand’s business performance, enabling data-driven strategy and operational optimization.
+
+---
 
 ## 📁 Project Scope:
 - Analyze hotel performance across cities & hotel tiers
@@ -22,6 +38,44 @@ This analysis covers:
 - Evaluate revenue realization & demand patterns
 - Identify customer behavior and booking insights
 - Deliver clean visual summaries and business interpretations
+
+---
+
+## 🧭 Why This Project Matters
+
+In the hospitality industry, data-driven decision-making is essential for improving occupancy, maximizing revenue, and enhancing guest experience. This project demonstrates how analytics can transform raw hotel data into actionable insights that support strategic and operational excellence.
+
+This project matters because it enables AtliQ Grand to:
+
+- **Understand performance across cities and hotel categories** to identify where profitability is strongest  
+- **Optimize occupancy and pricing strategies** using trends in ADR, RevPAR, and demand behavior  
+- **Enhance guest satisfaction** by analyzing ratings, complaints, and booking patterns  
+- **Reduce cancellations and improve revenue realization** through operational insights  
+- **Plan more effectively** by recognizing seasonal, monthly, and room-category trends  
+- **Drive competitive advantage** using business intelligence rather than intuition  
+
+Overall, this project demonstrates how hospitality businesses can leverage analytics to improve financial outcomes, streamline operations, and deliver better guest experiences—making data an essential asset for sustainable growth.
+
+---
+
+## 📁 Dataset Overview
+
+| Feature | Value |
+|---------|--------|
+| **Data Source** | Codebasics – Hospitality Analytics Challenge Dataset |
+| **Total Records** | ~15,000+ hotel booking & operational entries |
+| **Number of Tables** | 6 interconnected datasets |
+| **Hotel Coverage** | Multiple hotels across 4 cities (Mumbai, Bangalore, Hyderabad, Delhi) |
+| **Room Categories** | Standard, Premium Suite, Luxury King, Elite Deluxe |
+| **Key Metrics Included** | Revenue, ADR, RevPAR, Occupancy %, Ratings, Realization % |
+| **Time Features** | Daily dates, monthly trends, seasonal patterns |
+| **Guest Behavior Attributes** | Booking window, cancellation patterns, ratings, complaints |
+| **Missing Values** | Cleaned, standardized & imputed |
+
+The dataset is sourced from **Codebasics**, designed as a real-world hospitality analytics case study.  
+It includes detailed information on hotel performance, room category utilization, revenue generation, guest satisfaction, and operational efficiency—allowing a full analytical exploration of AtliQ Grand’s business performance.
+
+---
 
 ## 📁 Tools & Technologies:
 - Python, Pandas, NumPy
